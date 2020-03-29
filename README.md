@@ -1,0 +1,2 @@
+# jazurelearnig
+Jijo azure learnig
